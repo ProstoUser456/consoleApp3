@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H6eEr9aeglIr1jVB5y9RGSqQoZZU2NnTg+SYwPu/u9jMOR/lUEpMK4kx0/ju38aUkD6Gf3InnvTxRdYcGVrdTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rick\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rick\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
